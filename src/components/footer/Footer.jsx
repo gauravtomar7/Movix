@@ -34,7 +34,10 @@ const Footer = () => {
                        <FaGithub />
                        </a>
                    </span>
-               </div>                
+               </div>   
+               <div className="infoText">
+                Connect With Me
+</div>             
             </ContentWrapper>
         </footer>
     );
